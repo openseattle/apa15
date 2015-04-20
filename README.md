@@ -1,4 +1,6 @@
 # APA15
+
+[![Join the chat at https://gitter.im/codeforseattle/apa15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforseattle/apa15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a project for displaying geographic data about accessibility paths and points.  
 The project was started at the [American Planning Association Conference in 2015]
 (https://conference.planning.org/conference/), 
